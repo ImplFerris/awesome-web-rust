@@ -30,9 +30,6 @@ This is a curated list of resources for web application development in Rust. The
       - [SeaORM](https://crates.io/crates/sea-orm) - SeaORM is a relational ORM to help you build web services in Rust with the familiarity of dynamic languages.
       - [Diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 
-## Networking and Infrastructure Frameworks
-  - [Pingora](https://github.com/cloudflare/pingora) - A Rust async multithreaded framework that assists in constructing HTTP proxy services.  A library for building fast, reliable and evolvable network services.
-
 ## Authentication
   - [oauth2-rs](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library
   - [jsonwebtoken](https://github.com/Keats/jsonwebtoken) - Create and parses JWT (JSON Web Tokens)
@@ -44,6 +41,9 @@ This is a curated list of resources for web application development in Rust. The
 ## Platforms
   - [Shuttle](https://www.shuttle.dev/) - Build & ship a backend without writing any infrastructure files.
   - [Dioxus Labs\(Coming Soon\)](https://dioxuslabs.com/deploy/) - The batteries-included platform for deploying desktop, web, and mobile apps. Iterate quickly, collaborate with your team, and scale to millions.
+
+## Networking and Infrastructure Frameworks
+  - [Pingora](https://github.com/cloudflare/pingora) - A Rust async multithreaded framework that assists in constructing HTTP proxy services.  A library for building fast, reliable and evolvable network services.
 
 ## Other realted libraries
   - [Hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
